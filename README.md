@@ -1,5 +1,5 @@
 # ChatApp
 Exemplo de chat em tempo real com socket.io
 
-#Dependências
+# Dependências
 yarn add socket.io
